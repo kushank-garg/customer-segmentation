@@ -1,3 +1,13 @@
+
+## Try the Project Online
+
+Run this Customer Segmentation project directly in Google Colab without installing Python.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kushank-garg/customer-segmentation/blob/main/customer_segmentation_demo.ipynb)
+
+The project uses K-Means clustering to identify customer segments from sample data.
+
+
 # Customer Segmentation using K-Means
 
 A beginner-friendly machine learning project that groups customers with similar characteristics using **K-Means clustering**.
